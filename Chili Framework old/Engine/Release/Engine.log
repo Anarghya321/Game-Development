@@ -1,0 +1,10 @@
+﻿  Game.cpp
+  Main.cpp
+  MainWindow.cpp
+  Generating code
+  1 of 630 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\anarg\Desktop\Chilli\Chili Framework old\Release\Engine.exe
+  Engine.vcxproj -> C:\Users\anarg\Desktop\Chilli\Chili Framework old\Release\Engine.pdb (Full PDB)
